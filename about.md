@@ -1,5 +1,5 @@
 ---
-menu: true
+menu: false
 order: 1
 ---
 
