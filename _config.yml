@@ -114,7 +114,7 @@ author:
     #   icon: "fab fa-fw fa-linkedin"
     #   url: "https://www.linkedin.com/in/ketran/"
     - label: "Twitter"
-      icon: "fab fa fa-twitter"
+      icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/ketran"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
