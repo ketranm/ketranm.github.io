@@ -1,6 +1,6 @@
 ---
 layout: posts
-#title: Publications
+title: Publications
 author_profile: true
 permalink: /publications/
 comments: false
@@ -9,12 +9,12 @@ share: false
 **Inducing Grammars with and for Neural Machine Translation**  
 _Ke Tran_ and Yonatan Bisk  
 The 2nd Workshop on Neural Machine Translation and Generation 2018 (**Best paper award**)  
-[[pdf](https://arxiv.org/abs/1805.10850)] [[code](https://github.com/ketranm/sa-nmt)]  
+[[pdf](http://aclweb.org/anthology/W18-2704)] [[code](https://github.com/ketranm/sa-nmt)]  
 
 **The Importance of Being Recurrent for Modeling Hierarchical Structure**  
 _Ke Tran_, Arianna Bisazza, and Christof Monz   
 In Proceedings of Empirical Methods for Natural Language Processing (EMNLP 2018)  
-[[pdf](https://arxiv.org/abs/1803.03585)]  [[code](https://github.com/ketranm/fan_vs_rnn)]
+[[pdf](http://aclweb.org/anthology/D18-1503)]  [[code](https://github.com/ketranm/fan_vs_rnn)]
 
 
 **Examining Cooperation in Visual Dialog Models**  
@@ -25,11 +25,11 @@ NIPS 2017 ViGIL workshop
 **Unsupervised Neural Hidden Markov Models**  
 _Ke Tran_, Yonatan Bisk, Ashish Vaswani, Daniel Marcu, and Kevin Knight  
 Structured Prediction for Natural Language Processing Workshop, EMNLP 2016   
-[[pdf](https://arxiv.org/abs/1609.09007)] [[code](https://github.com/ketranm/neuralHMM)]
+[[pdf](http://www.aclweb.org/anthology/W16-5907)] [[code](https://github.com/ketranm/neuralHMM)]
 
 **A Dataset and Evaluation Metrics for Abstractive Compression of Sentences and Short Paragraphs**.  
 Kristina Toutanova, Chris Brockett, _Ke Tran_, and Saleema Amershi  
-In Proceedings of Empirical Methods for Natural Language Processing (EMNLP 2016)
+In Proceedings of Empirical Methods for Natural Language Processing (EMNLP 2016)  
 [[pdf](http://aclweb.org/anthology/D16-1033)] [[code](https://github.com/ketranm/)]
 
 **Recurrent Memory Networks for Language Modeling**  
@@ -45,7 +45,7 @@ In Proceedings of MT-Summit 2015
 **Word Translation Prediction for Morphologically Rich Languages with Bilingual Neural Networks**  
 _Ke Tran_, Arianna Bisazza, and Christof Monz  
 In Proceedings of Empirical Methods for Natural Language Processing (EMNLP 2014)  
-[[pdf](http://www.aclweb.org/anthology/D/D14/D14-1175.pdf)] [[poster]({{ site.url }}/assets/pdfs/emnlp14poster.pdf)] [[code](https://bitbucket.org/ketran/morphbinn)]
+[[pdf](http://aclweb.org/anthology/D14-1175)] [[poster]({{ site.url }}/assets/pdfs/emnlp14poster.pdf)] [[code](https://bitbucket.org/ketran/morphbinn)]
 
 **Making Readability Indices Readable**  
 Sara Tonelli, _Ke Tran_, Emanuele Pianta  
