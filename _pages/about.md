@@ -4,9 +4,6 @@ title: About me
 author_profile: true
 permalink: /
 comments: false
-redirect_from:
-  - /about/
-  - /about.html
 ---
 
 I am interested in natural language processing, deep learning, and probabilistic programing.
