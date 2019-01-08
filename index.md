@@ -1,5 +1,8 @@
 ---
 title: "About"
+author_profile: true
+comments: false
+share: false
 ---
 
 I am interested in natural language processing, deep learning, and probabilistic programing.

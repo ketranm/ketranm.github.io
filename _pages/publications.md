@@ -1,7 +1,10 @@
 ---
+layout: posts
 title: Publications
-menu: true
-order: 1
+author_profile: true
+permalink: /publications/
+comments: false
+share: false
 ---
 **Inducing Grammars with and for Neural Machine Translation**  
 _Ke Tran_ and Yonatan Bisk  
