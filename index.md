@@ -1,6 +1,8 @@
 ---
-title: "About"
+layout: home
+title: About me
 author_profile: true
+permalink: /
 comments: false
 share: false
 ---
