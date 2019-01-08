@@ -104,7 +104,7 @@ analytics:
 # Site Author
 author:
   name             : "Ke Tran"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : assets/images/bio-photo.png
   bio              : "Computational Linguist"
   location         : # "Somewhere"
   email            : ketranmanh@gmail.com
