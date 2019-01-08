@@ -1,8 +1,8 @@
 ---
-#layout: home
+layout: home
+permalink: /
 title: About me
 author_profile: true
-permalink: /
 comments: false
 ---
 
