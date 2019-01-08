@@ -1,6 +1,5 @@
 ---
-layout: page
-title: About me
+title: "About"
 ---
 
 I am interested in natural language processing, deep learning, and probabilistic programing.
