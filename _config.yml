@@ -132,7 +132,8 @@ author:
 footer:
   links:
     - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
+      # icon: "fab fa-fw fa-twitter-square"
+      icon: "fab fa-twitter"
       url: "https://twitter.com/ketran"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
