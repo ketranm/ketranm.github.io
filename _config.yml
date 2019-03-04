@@ -106,7 +106,7 @@ author:
   name             : "Ke Tran"
   avatar           : assets/images/bio-photo.png
   bio              : "Computational Linguist"
-  location         : # "Somewhere"
+  location         : Cambridge, MA
   email            : ketranmanh@gmail.com
   links:
     - label: "Email"

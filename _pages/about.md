@@ -5,6 +5,7 @@ title: About me
 author_profile: true
 comments: false
 ---
+As of February 2019 I've joined Amazon Alexa AI as an Applied Scientist.
 
 I am interested in natural language processing, deep learning, and probabilistic programing.
 
