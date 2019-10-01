@@ -6,6 +6,14 @@ permalink: /publications/
 comments: false
 share: false
 ---
+**Building Bilingual Pre-trained Models In A Day**  
+_Ke Tran_  
+Deep learning for low-resource NLP workshop, EMNLP 2019
+
+**Zero-shot Dependency Parsing with Pre-trained Multilingual Sentence Representations**  
+_Ke Tran_ and Arianna Bisazza  
+Deep learning for low-resource NLP workshop, EMNLP 2019
+
 **Inducing Grammars with and for Neural Machine Translation**  
 _Ke Tran_ and Yonatan Bisk  
 The 2nd Workshop on Neural Machine Translation and Generation 2018 (**Best paper award**)  
