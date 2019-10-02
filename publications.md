@@ -1,10 +1,7 @@
 ---
 layout: page
 ---
-
-## Publications
 See [Google Scholar](https://scholar.google.com/citations?user=AXUvCS0AAAAJ&hl=en) for latest updates.
-
 
 **Building Bilingual Pre-trained Models In A Day**  
 _Ke Tran_  
