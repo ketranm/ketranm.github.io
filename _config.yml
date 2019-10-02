@@ -19,7 +19,7 @@ locale: en-US
 title: "np.random"
 description: "computational linguist"
 baseurl: # the subpath of your site, e.g. "/blog"
-url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url: "https://ketranm.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 logo: "/images/bio-photo.png"
 date_format: "%B %-d, %Y"
 read_time: # reading time estimates, e.g. true
