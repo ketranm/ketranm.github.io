@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: home
 ---
 See [Google Scholar](https://scholar.google.com/citations?user=AXUvCS0AAAAJ&hl=en) for latest updates.
 
@@ -10,6 +10,7 @@ Deep learning for low-resource NLP workshop, EMNLP 2019
 **Zero-shot Dependency Parsing with Pre-trained Multilingual Sentence Representations**  
 _Ke Tran_ and Arianna Bisazza  
 Deep learning for low-resource NLP workshop, EMNLP 2019
+[[pdf](https://www.aclweb.org/anthology/D19-6132.pdf)]  
 
 **Inducing Grammars with and for Neural Machine Translation**  
 _Ke Tran_ and Yonatan Bisk  
