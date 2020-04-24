@@ -6,7 +6,7 @@ See [Google Scholar](https://scholar.google.com/citations?user=AXUvCS0AAAAJ&hl=e
 **Building Bilingual Pre-trained Models In A Day**  
 _Ke Tran_  
 Deep learning for low-resource NLP workshop, EMNLP 2019  
-[[unpublished](https://www.amazon.science/publications/from-english-to-foreign-languages-transferring-pre-trained-language-models)]
+[[ArXiv](https://arxiv.org/abs/2002.07306)]
 
 **Zero-shot Dependency Parsing with Pre-trained Multilingual Sentence Representations**  
 _Ke Tran_ and Arianna Bisazza  
