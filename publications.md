@@ -3,9 +3,14 @@ layout: home
 ---
 See [Google Scholar](https://scholar.google.com/citations?user=AXUvCS0AAAAJ&hl=en) for latest updates.
 
+**Generating Synthetic Data for Task-Oriented Semantic Parsing with Hierarchical Representations**  
+_Ke Tran_ and Ming Tan  
+Workshop on Structured Prediction for NLP, EMNLP 2020  
+[[pdf](http://aclweb.org)]
+
 **From English To Foreign Languages: Transferring Pre-trained Language Models**  
 _Ke Tran_  
-[[ArXiv](https://arxiv.org/abs/2002.07306)] [[code](https://github.com/alexa/ramen)]
+[[arXiv](https://arxiv.org/abs/2002.07306)] [[code](https://github.com/alexa/ramen)]
 
 **Zero-shot Dependency Parsing with Pre-trained Multilingual Sentence Representations**  
 _Ke Tran_ and Arianna Bisazza  
